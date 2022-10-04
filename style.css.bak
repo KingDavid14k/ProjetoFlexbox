@@ -1,0 +1,28 @@
+.container{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+
+}
+.item{
+    font-size: 25px;
+    color: black;
+
+}
+.container2{
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-around;
+    
+}
+.item2{
+    background-color: ;
+    color: black;
+    font-size: 40px;
+}
+.item3{
+    background-color: beige;
+    height: 80vh;
+    
+}
